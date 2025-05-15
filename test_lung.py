@@ -15,7 +15,7 @@ from utils import point_spatial_transformer
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--load_model", type=str, default="./save_model_pt/dirlab/ours_best.pt")
-parser.add_argument("--model_name", type=str, default="lcamorph")
+parser.add_argument("--model_name", type=str, default="ours")
 parser.add_argument("--gpu_id", type=str, default="0")
 parser.add_argument("--case_id", type=int, default=8)
 parser.add_argument("--test_data", type=str, default="/public/home/gyf/registration/data/DIRLAB/Case")
