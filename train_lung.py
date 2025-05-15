@@ -68,7 +68,7 @@ def train():
     if model_name == "ours":
         from lscaregnet.lscaregnet import LSCARegNet
         model = LSCARegNet(vol_shape)
-    else:
+    
 
     model.to(device)
     model.train()
