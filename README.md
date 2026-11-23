@@ -105,7 +105,7 @@ Ours       | 1.60(1.25)	|	1.65(1.34) | 0.20
 | Ours | 1.20(0.59) | 1.22(0.58) | 1.31(0.67) | 1.64(1.01) | 1.61(1.24) | 1.42(0.82) | 1.29(0.69) | 1.38(0.88) |
 
 
-![image](https://github.com/MischiefGhostOgre/LSCARegNet/blob/main/images/Fig_unsee.svg)
+![image](https://github.com/MischiefGhostOgre/LSCARegNet/blob/main/images/Fig_unsee.jpg)
 
 所有案例对应的可视化3D图（实际上，由于这个工作距离现在太过于久远了，我已经忘了这是哪个时期可视化的。是否是当时训练模型的结果。不过看样子基本上算。）
 
